@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="twitter:description" content="View _._#3324 renders/artworks here! This website is regulaly updated to have _._#3324's latest works. ">
+    <meta name="twitter:image" content="assets/img/2Photo.jpg">
+    <meta property="og:type" content="website">
+    <meta name="description" content="View _._#3324 renders/artworks here! This website also includes a discord link for anyone that would like to join.">
+    <meta property="og:image" content="assets/img/2Photo.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="_._#3324 Renders/Artworks">
+    <link rel="icon" type="image/jpeg" sizes="1880x1056" href="assets/img/2Photo.jpg">
+    <link rel="icon" type="image/jpeg" sizes="1880x1056" href="assets/img/2Photo.jpg">
+    <link rel="icon" type="image/jpeg" sizes="1880x1056" href="assets/img/2Photo.jpg">
+    <link rel="icon" type="image/jpeg" sizes="1880x1056" href="assets/img/2Photo.jpg">
+    <link rel="icon" type="image/jpeg" sizes="1880x1056" href="assets/img/2Photo.jpg">
+    <link rel="manifest" href="manifest.json">
+	<title>Home</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/12add922d2.js" crossorigin="anonymous"></script>
+	<style>
+      body {
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+		background: rgba(255, 255, 255);
+		color: rgb(0, 0, 0);
+      }
+	  a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+    </style>
+  </head>
+<body>
+
+<!--This website is purely coded by _._#3324
+and got some help from a website called w3schools.com 
+to help with some html elements! And stop peeking into
+my code!!! (Page Info: Home Page, Light Mode)-->
+
+<p> <img src="assets/img/udu_logo_resized.png" alt="_._#3324"> Art Archive/Portfolio/Renders <br>
+| <a href="ab - info,light.html"><i class="fas fa-info-circle"></i> Info</a> 
+| <a href=" https://discord.gg/KEeWV9h"><i class="fab fa-discord"></i> Discord</a>
+| <a href="ac - home,dark.html"><i class="fas fa-lightbulb"></i> Dark Mode</a> | </p>
+
+<pre>
+_._#3324
+├───Realistic City
+│   ├───<a href="assets/img/RealisticCityPublicRender.png">RealisticCityPublicRender.png</a>
+│   └───<a href="assets/img/RealisticCityPublicRender.tiff">RealisticCityPublicRender.tiff</a>
+├───Simple City Renders
+│   ├───Full Size City Versions
+│   │   ├───V2
+│   │   │   ├───<a href="assets/img/EditedWaterMarkMiddleCityButJPG.jpg">EditedWaterMarkMiddleCityButJPG.jpg</a>
+│   │   │   └───<a href="assets/img/EditedWaterMarkMiddleCity.tif">EditedWaterMarkMiddleCity.tif</a>
+│   │   ├───V3
+│   │   │   ├───Colored
+│   │   │   │   ├───<a href="assets/img/CityPublicRenderV3Colored.jpg">CityPublicRenderV3Colored.jpg</a>
+│   │   │   │   └───<a href="assets/img/CityPublicRenderV3Colored.tif">CityPublicRenderV3Colored.tif</a>
+│   │   │   └───Grayscale
+│   │   │       ├───<a href="assets/img/CityPublicRenderV3grayScaled.jpg">CityPublicRenderV3grayScaled.jpg</a>
+│   │   │       └───<a href="assets/img/CityPublicRenderV3grayScaled.tif">CityPublicRenderV3grayScaled.tif</a>
+│   │   ├───V4
+│   │   │   ├───Colored
+│   │   │   │   ├───<a href="assets/img/CityPublicRenderV4Colored.jpg">CityPublicRenderV4Colored.jpg</a>
+│   │   │   │   └───<a href="assets/img/CityPublicRenderV4Colored.tif">CityPublicRenderV4Colored.tif</a>
+│   │   │   └───Grayscale
+│   │   │       ├───No background
+│   │   │       │   ├───<a href="assets/img/CityPublicRenderV4Grayscaled.jpg">CityPublicRenderV4Grayscaled.jpg</a>
+│   │   │       │   └───<a href="assets/img/CityPublicRenderV4Grayscaled.tif">CityPublicRenderV4Grayscaled.tif</a>
+│   │   │       └───With background
+│   │   │           ├───<a href="assets/img/CityPublicRenderV4GrayscaledBackground.jpg">CityPublicRenderV4GrayscaledBackground.jpg</a>
+│   │   │           └───<a href="assets/img/CityPublicRenderV4GrayscaledBackground.tif">CityPublicRenderV4GrayscaledBackground.tif</a>
+│   │   └───V5
+│   │       ├───Colored
+│   │       │   ├───New (high quality water and hdri with good lighting)
+│   │       │   │   ├───<a href="assets/img/CityPublicRenderV5Colored.png">CityPublicRenderV5Colored.png</a>
+│   │       │   │   └───<a href="assets/img/CityPublicRenderV5Colored.tiff">CityPublicRenderV5Colored.tiff</a>
+│   │       │   └───Old (low quality water and not much light)
+│   │       │       ├───<a href="assets/img/CityPublicRenderV5Color.png">CityPublicRenderV5Color.png</a>
+│   │       │       └───<a href="assets/img/CityPublicRenderV5Color.tiff">CityPublicRenderV5Color.tiff</a>
+│   │       └───Grayscale
+│   │           ├───<a href="assets/img/CityPublicRenderV5Grayscale.png">CityPublicRenderV5Grayscale.png</a>
+│   │           └───<a href="assets/img/CityPublicRenderV5Grayscale.tiff">CityPublicRenderV5Grayscale.tiff</a>
+│   ├───City Sphere
+│   │   ├───Big
+│   │   │   ├───<a href="assets/img/PublicRenderBig.jpg">PublicRenderBig.jpg</a>
+│   │   │   └───<a href="assets/img/PublicRenderBig.tif">PublicRenderBig.tif</a>
+│   │   └───Small
+│   │       ├───<a href="assets/img/PublicRenderSmall.jpg">PublicRenderSmall.jpg</a>
+│   │       └───<a href="assets/img/PublicRenderSmall.tif">PublicRenderSmall.tif</a>
+│   └───Small City
+│       ├───<a href="assets/img/LowQualityRenderdForPublicMiniCitySky.png">LowQualityRenderdForPublicMiniCitySky.png</a>
+│       └───<a href="assets/img/RenderdForPublicMiniCitySky.png">RenderdForPublicMiniCitySky.png</a>
+├───No U
+│   ├───Low Quality
+│   │   ├───<a href="assets/img/No U low.gif">No U low.gif</a>
+│   │   └───<a href="assets/img/No U low.mp4">No U low.mp4</a>
+│   └───High Quality
+│       ├───<a href="assets/img/No U.gif">No U.gif</a>
+│       └───<a href="assets/img/No U.mp4">No U.mp4</a>
+├───Sphere
+│   ├───<a href="assets/img/publicpngsphere.png">publicpngsphere.png</a>
+│   └───<a href="assets/img/publicuntitled.tiff">publicuntitled.tiff</a>
+├───Project Lightroom
+│   └───Versions
+│       ├───V1
+│       │   ├───<a href="assets/img/PrLightroomPublicRender.png">PrLightroomPublicRender.png</a>
+│       │   └───<a href="assets/img/PrLightroomPublicRender.tiff">PrLightroomPublicRender.tiff</a>
+│       └───V2
+│           ├───<a href="assets/img/PrLightRoomPublicRenderV2.png">PrLightRoomPublicRenderV2.png</a>
+│           └───<a href="assets/img/PrLightRoomPublicRenderV2.tiff">PrLightRoomPublicRenderV2.tiff</a>
+├───Lightcube
+│   ├───<a href="assets/img/PublicRenderLightCube.jpg">PublicRenderLightCube.jpg</a>
+│   └───<a href="assets/img/PublicRenderLightCube.tiff">PublicRenderLightCube.tiff</a>
+└───Corrupted Cube
+    ├───<a href="assets/img/PrCorruptedCubePublicRender.png">PrCorruptedCubePublicRender.png</a>
+    └───<a href="assets/img/PrCorruptedCubePublicRender.tiff">PrCorruptedCubePublicRender.tiff</a>
+</pre>
+
+</body>
+</html>
