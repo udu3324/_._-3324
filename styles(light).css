@@ -1,0 +1,26 @@
+body {
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+background: rgba(255, 255, 255);
+color: rgb(0, 0, 0);
+}
+a:link {
+color: rgb(9, 63, 77);
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: rgb(9, 63, 77);
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: rgb(9, 63, 77);
+background-color: transparent;
+text-decoration: underline;
+}
+a:active {
+color: rgb(9, 63, 77);
+background-color: transparent;
+text-decoration: underline;
+}
